@@ -1,0 +1,1 @@
+# palworld-membership-only
